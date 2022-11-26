@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#This script for generator for SSTI of Java 
+#This script for generator for SSTI of Java SpringBoot
 
 
 import sys
